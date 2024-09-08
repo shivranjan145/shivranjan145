@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Uniocde -->
+    <meta charset="utf-8">
+    <!--[if IE]>
+    <meta http-equiv="X-UA Compatible" content="IE=edge">
+    <![endif]-->
+    <!-- First Mobile Meta -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Pgae Description -->
+    <meta name="description" content="Enrollee is a Syllabus tracker Personal Learning Management System made for students. It helps them keep track of their timetable, manage their weak topics, course progress and much more.">
+    <!-- Page Kewords -->
+    <meta name="keywords" content="UPSC,IIT,NEET,CAT,MPPSC,BANK PO,CLASS 12,CLASS 11,RRB,GATE,ICAR,NDA,SSC JE,enrollee, enrollee.in, enrollee club, enrollee.club, syllabus, track syllabus, prapare for exam, syllabus download">
+    <!-- Site Author -->
+    <meta name="author" content="Enrollee">
+    <!-- Title -->
+    <title>Enrollee -syllabus tracker</title>
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="assets/images/favicon.png">
+	<link href="assets/images/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Bootstrap 4 -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
+    <!-- Swiper Slider -->
+    <link rel="stylesheet" href="assets/css/swiper.min.css" type="text/css">
+    <!-- Fonts -->
+    <link rel="stylesheet" href="assets/fonts/fontawesome/font-awesome.min.css">
+    <!-- OWL Carousel -->
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css" type="text/css">
+    <link rel="stylesheet" href="assets/css/owl.theme.default.min.css" type="text/css">
+    <!-- CSS Animate -->
+    <link rel="stylesheet" href="assets/css/animate.min.css" type="text/css">
+    <!-- Style -->
+    <link rel="stylesheet" href="assets/css/style.css" type="text/css">
+</head>
+<body>
+	<!-- Section Preloader -->
+	<div id="section-preloader">
+		<div class="boxes">
+		    <div class="box">
+		        <div></div>
+		        <div></div>
+		        <div></div>
+		        <div></div>
+		    </div>
+		    <div class="box">
+		        <div></div>
+		        <div></div>
+		        <div></div>
+		        <div></div>
+		    </div>
+		    <div class="box">
+		        <div></div>
+		        <div></div>
+		        <div></div>
+		        <div></div>
+		    </div>
+		    <div class="box">
+		        <div></div>
+		        <div></div>
+		        <div></div>
+		        <div></div>
+		    </div>
+		</div>
+		
+	</div>
+	<!-- /.Section Preloader -->
+
+	<!-- Section Navbar -->
+	<nav class="navbar-1 navbar navbar-expand-lg">
+        <div class="container navbar-container">
+            <a class="navbar-brand" href="index.html"><img src="assets/images/logo.png" alt="Enrollee"></a>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto">
+	                <li class="nav-item">
+	                    <a href="#section-features1" class="nav-link scroll-down">Features</a>
+	                </li>
+	                <li class="nav-item">
+	                    <a href="#section-appscreen1" class="nav-link scroll-down">Screenshots</a>
+	                </li>
+	                <li class="nav-item">
+	                    <a href="#section-testimonial1" class="nav-link scroll-down">User reviews</a>
+	                </li>
+                </ul>
+            </div>
+            <a href="https://play.google.com/store/apps/details?id=www.enrollee.enrollee" target="_blank" rel="noopener noreferrer" class="btn-1 shadow1 style3 bgscheme">DOWNLOAD ENROLLEE</a>
+            
+        </div>
+        <!-- container -->
+    </nav>
+	<!-- /.Section Navbar -->
+	<!-- Section Slider 1 -->
+    <div id="section-slider1">
+	  	<div class="swiper-container">
+		    <div class="swiper-wrapper d-none">
+		    	<!-- Item -->
+				<div class="swiper-slide">
+					<div class="slider-content">
+						<div class="container">
+							<div class="row">
+								<div class="left col-12 col-sm-12 col-md-7">
+									<h1 class="ez-animate" data-animation="fadeInLeft">Rapid solutions for your exam preparation</h1>
+									<p class="ez-animate" data-animation="fadeInLeft">Track your course progress, weak topics and complete syllabus from one place. Enrollee brings all your courses in one single platform.</p>
+									<ul>
+										<li><a href="https://play.google.com/store/apps/details?id=www.enrollee.enrollee" target="_blank" rel="noopener noreferrer"><img class="img-fluid ez-animate" src="assets/images/img-googleplay.png" alt="Enrollee" data-animation="fadeInUp"></a></li>
+									</ul>
+								</div>
+								<div class="right ez-animate col-12 col-sm-12 col-md-5" data-animation="fadeInRight">
+									<img class="img-fluid" src="assets/images/img-1.png" alt="Enrollee">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /.Item -->
+		    </div>
+		</div>
+	</div>
+	<!-- /.Section Slider 1 -->
+	
+	<!-- Section Features 1 -->
+	<div id="section-features1">
+		<div class="container">
+			<div class="row">
+				<div class="left">
+					<h6 class="clscheme">Checkout features</h6>
+					<h2>The only app you will need</h2>
+					<ul>
+						<li><i class="fa fa-long-arrow-left clscheme"></i></li>
+						<li><i class="fa fa-long-arrow-right clscheme"></i></li>
+					</ul>
+				</div>
+				<div class="right">
+					<div class="swiper-container features1">
+						<div class="swiper-wrapper">
+							<!-- Item -->
+							<div class="swiper-slide">
+								<div class="item">
+									<img src="assets/images/img-icon1.png" alt="Enrollee">
+									<h3>Complete syllabus</h3>
+									<p>Get complete syllabus and topics with expert analysis and suggested notes right on your phone.</p>
+								</div>
+							</div>
+							<!-- /.Item -->
+							<!-- Item -->
+							<div class="swiper-slide">
+								<div class="item">
+									<img src="assets/images/img-icon2.png" alt="Enrollee">
+									<h3>Daily task</h3>
+									<p>Enrollee provides a platform where you can plan your study sessions with the ultimate goal of exam success in mind.</p>
+								</div>
+							</div>
+							<!-- /.Item -->
+							<!-- Item -->
+							<div class="swiper-slide">
+								<div class="item">
+									<img src="assets/images/img-icon3.png" alt="Enrollee">
+									<h3>Mark as weak topics</h3>
+									<p>This feature gives you a tracker to track all your weak topics. So you can focus more on those topics</p>
+								</div>
+							</div>
+							<!-- /.Item -->
+							<!-- Item -->
+							<div class="swiper-slide">
+								<div class="item">
+									<img src="assets/images/img-icon1.png" alt="Enrollee">
+									<h3>Timetable</h3>
+									<p>Schedule your studies according to your comfort and take control of your time by planning every day.</p>
+								</div>
+							</div>
+							<!-- /.Item -->
+							<!-- Item -->
+							<div class="swiper-slide">
+								<div class="item">
+									<img src="assets/images/img-icon2.png" alt="Enrollee">
+									<h3>Pomodoro timer</h3>
+									<p>We understand it is hard to stay focused so we provide a timer based on the Pomodoro technique.</p>
+								</div>
+							</div>
+							<!-- /.Item -->
+							<!-- Item -->
+							<div class="swiper-slide">
+								<div class="item">
+									<img src="assets/images/img-icon3.png" alt="Enrollee">
+									<h3>Fully customizable</h3>
+									<p>Enrollee allows you to customize the app completely. You can edit chapters, topics, progress & theme, etc.</p>
+								</div>
+							</div>
+							<!-- /.Item -->
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- /.Section Features 1 -->
+	<!-- Features Wrap -->
+	<div class="features-wrap">
+		<!-- Section Features 2 -->
+		<div id="section-features2">
+			<div class="container">
+				<div class="row">
+					<div class="left col-sm-12 col-md-6">
+						<div class="img-container">
+							<img class="circleicon1 ez-animate" src="assets/images/img-circleicon1.png" alt="Enrollee" data-animation="fadeInUp">
+							<img class="img-fluid ez-animate" src="assets/images/img-2.png" alt="Enrollee" data-animation="fadeInLeft">
+						</div>
+					</div>
+					<div class="right my-auto col-sm-12 col-md-6">
+						<h6 class="clscheme">Stay focused with enrollee</h6>
+						<h2>Importance of Self Discipline</h2>
+						<p>Self-discipline is one of the most important traits required to succeed in life. Without self-discipline, you are sure to find yourself involved in failure and disappointment. Self-discipline will help you</p>
+						<a href="https://play.google.com/store/apps/details?id=www.enrollee.enrollee" target="_blank" rel="noopener noreferrer" class="btn-2 shadow1 style3 bgscheme">GET STARTED NOW</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- /.Section Features 2 -->
+		<!-- Section Features 2 -->
+		<div class="section-features2">
+			<div class="container">
+				<div class="row">
+					<div class="right my-auto col-sm-12 col-md-6">
+						<h6 class="clscheme">Get complete syllabus</h6>
+						<h2>Well-designed course syllabus</h2>
+						<p>Course Syllabus is a beautiful way to share your course syllabus with students. It helps you create and organize your syllabus, write assignments, and track grades with ease.</p>
+						<a href="https://play.google.com/store/apps/details?id=www.enrollee.enrollee" target="_blank" rel="noopener noreferrer" class="btn-2 shadow1 style3 bgscheme">GET STARTED NOW</a>
+					</div>
+					<div class="left col-sm-12 col-md-6">
+						<div class="img-container">
+							<img class="circleicon1 ez-animate" src="assets/images/img-circleicon2.png" alt="Enrollee" data-animation="fadeInUp">
+							<img class="img-fluid ez-animate" src="assets/images/img-3.png" alt="Enrollee" data-animation="fadeInRight">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- /.Section Features 2 -->
+	</div>
+	<!-- /.Features Wrap -->
+
+	<!-- Section Testimonial 1 -->
+	<div id="section-testimonial1">
+		<div class="container">
+			<div class="row">
+				<div class="title1 col-12">
+					<h6 class="clscheme">USER REVIEWS</h6>
+					<h2>What users say about enrollee</h2>
+				</div>
+			</div>
+		</div>
+		<div class="container testimonial1">
+			<img class="img-fluid bg-testimonial" src="assets/images/bg-testimonial1.jpg" alt="Enrollee">
+			<div class="row">
+				<div class="owl-carousel owl-theme">
+					<!-- Item  -->
+					<div class="item">
+						
+						<h3>Pooja Soni</h3>
+						<h4>GATE Aspirant</h4>
+						<ul>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+						</ul>
+						<p>Really helpful to keep track on my progress during prepration. Now you don't have to waste your time for prepraing your learning plan ,you just need to install enrollee and start learing.</p>
+					</div>
+					<!-- /.Item -->
+					<!-- Item 						<img src="assets/images/img-testimonial1.png" alt="Appcraft">
+ -->
+					<div class="item">
+						<h3>Deepak Patidar</h3>
+						<h4>Student</h4>
+						<ul>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+						</ul>
+						<p>Very helpful app for aspirants. Easy to use. Need not to bother of maintaining diary anymore. Great UI with premium features like : Revision Counter, Mark as weak, Pomodoro time etc. Really really liked the app</p>
+					</div>
+					<!-- /.Item -->
+					<!-- Item -->
+					<div class="item">
+						<h3>Sachin Chakravorty</h3>
+						<h4>Student</h4>
+						<ul>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+						</ul>
+						<p>An essential app for every serious aspirant. Revision counter, and syllabus distribution is very helpful to keep one on track and pursue a systematic preparation of Competitive examinations.</p>
+					</div>
+					<!-- /.Item -->
+					<!-- Item -->
+					<div class="item">
+						<h3>Priyanshu Mandhata</h3>
+						<h4>Student</h4>
+						<ul>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+						</ul>
+						<p>Great app , very helpful to achieve your goal.... Amazingly great .. this app changed my life... Using this I cracked around 6-8 non tech exams .. like SSC CGL, rrb po , ibps po, sbi po etc.. Do use this app and feel the change.</p>
+					</div>
+					<!-- /.Item -->
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- /.Section Testimonial 1 -->
+	<!-- Section APP Screen 1 -->
+	<div id="section-appscreen1">
+		<div class="container">
+			<div class="row">
+				<div class="title1 col-12">
+					<h6 class="clscheme">APP SCREEN</h6>
+					<h2>How our app looks like</h2>
+				</div>
+			</div>
+		</div>
+		<div class="container appscreen1">
+			<div class="row">
+				<div class="owl-carousel owl-theme">
+					<!-- Item -->
+					<div class="item">
+						<img class="img-fluid" src="assets/images/img-screen1.png" alt="Enrollee">
+					</div>
+					<!-- /.Item -->
+					<!-- Item -->
+					<div class="item">
+						<img class="img-fluid" src="assets/images/img-screen2.png" alt="Enrollee">
+					</div>
+					<!-- /.Item -->
+					<!-- Item -->
+					<div class="item">
+						<img class="img-fluid" src="assets/images/img-screen3.png" alt="Enrollee">
+					</div>
+					<!-- /.Item -->
+					<!-- Item -->
+					<div class="item">
+						<img class="img-fluid" src="assets/images/img-screen4.png" alt="Enrollee">
+					</div>
+					<!-- /.Item -->
+					<!-- Item -->
+					<div class="item">
+						<img class="img-fluid" src="assets/images/img-screen5.png" alt="Enrollee">
+					</div>
+					<!-- /.Item -->
+					
+					<!-- /.Item -->
+				</div>
+				<!-- Add Pagination -->
+				<div class="swiper-pagination"></div>
+			</div>
+		</div>
+	</div>
+	<!-- /.Section APP Sreen 1 -->
+	<!-- Section Download 1 -->
+	<div id="section-download1">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<h1>Download Today</h1>
+					<p>A Simple Tool That Helps You Monitor Your Academic Progress</p>
+					<ul>
+						<!--
+						<li>
+							<a href="#">
+								<img class="img-fluid ez-animate" src="assets/images/img-appstore.png" alt="Appcraft" data-animation="fadeInUp">
+							</a>
+						</li>
+						-->
+						<li>
+							<a href="https://play.google.com/store/apps/details?id=www.enrollee.enrollee" target="_blank" rel="noopener noreferrer">
+								<img class="img-fluid ez-animate" src="assets/images/img-googleplay.png" alt="Enrollee" data-animation="fadeInUp">
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- /.Section Download 1 -->
+	<!-- Section Footer -->
+	<div id="section-footer">
+		<div class="container">
+			<div class="footer-widget">
+				<div class="row">
+					<div class="left col-md-6">
+						<a href="index.html"><img src="assets/images/logo.png" alt="Enrollee"></a>
+					</div>
+					<div class="right col-md-6">
+						<div class="social-links">
+			                <a href="https://www.linkedin.com/company/enrollee" target="_blank" rel="noopener noreferrer"><i class="fa fa-linkedin fa-lg"></i></a>
+			                <a href="https://play.google.com/store/apps/details?id=www.enrollee.enrollee" target="_blank" rel="noopener noreferrer"><i class="fa fa-google fa-lg"></i></a>
+			                <a href="https://www.instagram.com/enrollee_club/" target="_blank" rel="noopener noreferrer"><i class="fa fa-instagram fa-lg"></i></a>
+			                <a href="https://www.youtube.com/channel/UCg7ao42l2ACwdQVB5aKIfNA" target="_blank" rel="noopener noreferrer"><i class="fa fa-youtube fa-lg"></i></a>
+			            </div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer-copyright container-fluid ">
+			<div class="col-12">
+				<p>© 2022 Copyrights <a href="#section-slider1">Enrollee</a></p>
+			</div>
+		</div>
+	</div>
+	<!-- /.Section Footer -->
+	
+	<!-- Javascript Files -->
+	<script src="assets/js/jquery.min.js"></script>
+	<!-- Bootstrap -->
+	<script src="assets/js/bootstrap.min.js"></script>
+	<!-- Swiper Slider -->
+	<script src="assets/js/swiper.min.js"></script>
+	<!-- OWL Carousel -->
+	<script src="assets/js/owl.carousel.min.js"></script>
+	<!-- Waypoint -->
+	<script src="assets/js/jquery.waypoints.min.js"></script>
+	<!-- Easy Waypoint -->
+	<script src="assets/js/easy-waypoint-animate.js"></script>
+	<!-- Scripts -->
+	<script src="assets/js/scripts.js"></script>
+	<!-- Carousel Features 1 -->
+	<script src="assets/js/carousel-features1.js"></script>
+	<!-- Carousel App Screen 1 -->
+	<script src="assets/js/carousel-appscreen1.js"></script>
+	<!-- Carousel Testimonial 1 -->
+	<script src="assets/js/carousel-testimonial1.js"></script>
+
+</body>
+</html>
